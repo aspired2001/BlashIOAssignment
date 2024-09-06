@@ -57,10 +57,9 @@ The application will run at `http://localhost:5173`. Open this URL in your brows
 - **Version Control**: Implement versioning so users can roll back changes to previous versions of their layouts.
 - **Themes and Styling**: Add theme support to give users more styling options for their layouts.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+![Gitwa](https://github.com/user-attachments/assets/8ebac83b-84c7-47a2-8af5-a4c6203883da)
 
 ---
 
-**Contributors**: [Your Name](https://github.com/aspired2001)
+**Contributors**: Wajahat Ali(https://github.com/aspired2001)
